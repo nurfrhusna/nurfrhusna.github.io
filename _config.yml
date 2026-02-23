@@ -53,23 +53,16 @@ about_title: About Me
 
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! I am Farah, a Computer Science and Engineering student from Malaysia, currently pursuing my 
-  bachelor's degree at Yonsei University, South Korea. 
-  
-  Living and studying abroad has taught me to embrace adaptability, empathy, and creativity. I enjoy projects that
-  bridge logic and design, finding joy in crafting technology that feels intuitive and warm to users.
-  
-content:
+  Hi! I am Farah, a third-year Computer Science student from Malaysia, currently pursuing my 
+  bachelor's degree at Yonsei University in South Korea. 
 
-  - title: Research Interests
-    layout: text
-    content: |
-      I’m deeply interested by how Artificial Intelligence (AI) and Human-Computer Interaction (HCI) intersect,
-      how intelligent systems can understand people better and create more natural and human-centered experiences.
-      
-      My curiosity lies in Human-AI Interaction, where data, design and psychology combined to improve how people connect with technology.  
-      I hope to contribute to creating intelligent interfaces that understand users more than clicks and commands, creating tools that feel personal and meaningful.
-      
+  As I've grown through my studies, I've found myself interested in UI/UX design. I'm particularly interested in understanding 
+  how people intereact with technology and how thoughtful, user-centered design can make complex systems feel simple, intuitive,
+  and meaningful. I also enjoy combining structure with creativity, desiginig digital experiences that are not only 
+  functional, but also feel warm to users.
+
+  
+content:  
       
   - title: Project Highlights
     layout: list

@@ -262,50 +262,79 @@ content:
 
       </div>
 
+
   - title: Extracurricular Activities
-    layout: list
-    content:
-      - layout: left
-        title: Member of Malaysian Students' Association in the Republic of Korea (Persatuan Pelajar Malaysia Korea, PPMK)
-        #sub_title: Job title
-        caption: March 2023 - Present
-        #link: Link to company (optional)
-        #quote: >
-         # Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Actively participate in cultural events, networking, and community engagement activities.
+    layout: text
+    content: |
+      <style>
+        .timeline {
+          position: relative;
+          margin: 30px 0;
+          padding-left: 30px;
+          border-left: 3px solid #b6d4f0; /* soft blue accent */
+        }
+        .timeline-item {
+          margin-bottom: 25px;
+          position: relative;
+        }
+        .timeline-item::before {
+          content: "";
+          position: absolute;
+          left: -10px;
+          top: 5px;
+          width: 12px;
+          height: 12px;
+          background-color: #fff;
+          border: 3px solid #b6d4f0; /* same blue as the line */
+          border-radius: 50%;
+        }
+        .timeline-date {
+          background: #e3f1fb; /* light pastel blue */
+          padding: 3px 10px;
+          border-radius: 6px;
+          font-size: 0.9em;
+          font-weight: 500;
+          color: #1a3859; /* deeper navy-blue text */
+          display: inline-block;
+          margin-bottom: 6px;
+        }
+        .timeline h4 {
+          margin: 5px 0;
+        }
+        .timeline p {
+          margin: 0;
+          line-height: 1.5;
+        }
+      </style>
 
-      - layout: left
-        title: English-Korean Language Exchange 
-        #sub_title: Job title
-        caption: Oct - Nov 2025
-        #link: Link to company (optional)
-        #quote: >
-         # Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Participated in language exchange sessions to streghten bilingual communication skills.
+      <div class="timeline">
 
-      - layout: left
-        title: Committee Member of PPMK's Annual Dinner
-        #sub_title: Job title
-        caption: Nov 2025
-        #link: Link to company (optional)
-        #quote: >
-         # Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Assisted in planning and managing event flow for over 250 participants
+        <div class="timeline-item">
+          <div class="timeline-date">Mar 2023 – Present</div>
+          <h4><b>Member of Malaysian Students' Association in the Republic of Korea (Persatuan Pelajar Malaysia Korea, PPMK)</b></h4>
+          <p>Actively participate in cultural events, networking, and community engagement activities.</p>
+        </div>
 
-      - layout: left
-        title: Korean Language Tutoring
-        #sub_title: Job title
-        caption: Sep - Dec 2025
-        #link: Link to company (optional)
-        #quote: >
-         # Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Participated in structured one-to-one tutoring to improve Korean proficiency and communication skills.
+        <div class="timeline-item">
+            <div class="timeline-date">Oct - Nov 2025</div>
+            <h4><b>English-Korean Language Exchange</b></h4>
+            <p>Participated in language exchange sessions to streghten bilingual communication skills.</p>
+        </div>
         
+        <div class="timeline-item">
+          <div class="timeline-date">Nov 2025</div>
+          <h4><b>Committee Member of PPMK's Annual Dinner</b></h4>
+          <p>Assisted in planning and managing event flow for over 250 participants</p>
+        </div>
 
+        <div class="timeline-item">
+          <div class="timeline-date">Sep - Dec 2025</div>
+          <h4><b>Korean Language Tutoring</b></h4>
+          <p>Participated in structured one-to-one tutoring to improve Korean proficiency and communication skills.</p>
+        </div>
+
+      </div>
+      
   - title: Skills
     layout: list
     content:

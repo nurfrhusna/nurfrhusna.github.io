@@ -273,7 +273,7 @@ content:
         #quote: >
          # Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-        Actively participate in cultural events, networking, and community engagement activities.
+          Actively participate in cultural events, networking, and community engagement activities.
 
 
       - layout: left
@@ -284,7 +284,7 @@ content:
         #quote: >
          # Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-        Participated in language exchange sessions to streghten bilingual communication skills.
+          Participated in language exchange sessions to streghten bilingual communication skills.
 
       - layout: left
         title: Committee Member of PPMK's Annual Dinner
@@ -294,7 +294,7 @@ content:
         #quote: >
          # Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-        Assisted in planning and managing event flow for over 250 participants
+          Assisted in planning and managing event flow for over 250 participants
 
       - layout: left
         title: Korean Language Tutoring
@@ -304,7 +304,7 @@ content:
         #quote: >
          # Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-        Participated in structured one-to-one tutoring to improve Korean proficiency and communication skills.
+          Participated in structured one-to-one tutoring to improve Korean proficiency and communication skills.
         
 
   - title: Skills

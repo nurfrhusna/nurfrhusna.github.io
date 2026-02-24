@@ -53,11 +53,11 @@ about_title: About Me
 
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi! I am Farah, a third-year Computer Science student from Malaysia. I am a JPA scholar currently pursuing my 
+  Hi! I am Farah, a third-year Computer Science student from Malaysia, currently pursuing my 
   bachelor's degree at Yonsei University in Seoul, South Korea. 
   
-  I began my study journey abroad at 19, where I learn to adapt to new surroundings and gain meaningful experiences. 
-  Living and studying abroad has helped me become more resilience, while being able to explore my passion in technology and critical thinking.
+  I began my study journey abroad at 19, where I learn to adapt to new surroundings and gain meaningful experiences along the way. 
+  Living and studying abroad has helped me become more resilience while being able to explore my passion in technology and critical thinking.
   
   As I've progressed through my studies, I've found myself interested in UI/UX design. I'm particularly interested by how people interact
   with technology and how thoughtful, user-centered design can make complex systems feel simple and intuitive. 
@@ -178,21 +178,6 @@ content:
         </div>
 
       </div>
-          
-  - title: Experiences
-    layout: list
-    content:
-      - layout: left
-        title: Mathematics Tutor
-        #sub_title: Job title
-        caption: July - November 2024
-        #link: Link to company (optional)
-        #quote: >
-         # Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Provided a one-to-one tutoring sessions that helped secondary students prepare for the 
-          national examination (SPM). <br>
-          Guided students through exam materials to master problem-solving skills.
 
   - title: Awards & Honors
     layout: text
@@ -244,32 +229,83 @@ content:
           <div class="timeline-date">2022 – Present</div>
           <h4><b>Malaysia Government Scholarship</b></h4>
           <i>National Public Service Department, Malaysia (JPA) </i><br>
-          <p>Awarded full sponsorship for undergraduate studies in South Korea.</p>
+          <p>Awarded full sponsorship for undergraduate studies in South Korea for excelling in SPM examination.</p>
         </div>
 
+        <div class="timeline-item">
+            <div class="timeline-date">Fall 2025</div>
+            <h4><b>CS Merit-Based Scholarship</b></h4>
+            <i>Yonsei University</i><br>
+            <p>Awarded to international students for academic excellence in the Computer Science and Engineering department for Fall 2025 semester.</p>
+        </div>
+        
         <div class="timeline-item">
           <div class="timeline-date">Spring 2025</div>
           <h4><b>CS Merit-Based Scholarship</b></h4>
           <i>Yonsei University</i><br>
-          <p>Awarded to international students for academic excellence in the Computer Science department.</p>
+          <p>Awarded to international students for academic excellence in the Computer Science and Engineering department for Spring 2025 semester.</p>
         </div>
 
         <div class="timeline-item">
           <div class="timeline-date">Fall 2024</div>
           <h4><b>GLC Distinction Award</b></h4>
           <i>Global Leadership College, Yonsei University</i><br>
-          <p>Recognized for outstanding academic performance in Information Engineering & Contemporary Society.</p>
+          <p>Recognized for outstanding academic performance in Information Engineering & Contemporary Society course.</p>
         </div>
 
         <div class="timeline-item">
           <div class="timeline-date">Spring 2024</div>
           <h4><b>GBED Merit Scholarship</b></h4>
           <i>Global Basic Education Division, Yonsei University</i><br>
-          <p>Granted for academic excellence in Yonsei’s Global Leader College.</p>
+          <p>Awarded for academic excellence in Yonsei’s Global Leader College.</p>
         </div>
 
       </div>
 
+  - title: Extracurricular Activities
+    layout: list
+    content:
+      - layout: left
+        title: Member of Malaysian Students' Association in the Republic of Korea (Persatuan Pelajar Malaysia Korea, PPMK)
+        #sub_title: Job title
+        caption: March 2023 - Present
+        #link: Link to company (optional)
+        #quote: >
+         # Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+        Actively participate in cultural events, networking, and community engagement activities.
+
+
+      - layout: left
+        title: English-Korean Language Exchange 
+        #sub_title: Job title
+        caption: Oct - Nov 2025
+        #link: Link to company (optional)
+        #quote: >
+         # Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+        Participated in language exchange sessions to streghten bilingual communication skills.
+
+      - layout: left
+        title: Committee Member of PPMK's Annual Dinner
+        #sub_title: Job title
+        caption: Nov 2025
+        #link: Link to company (optional)
+        #quote: >
+         # Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+        Assisted in planning and managing event flow for over 250 participants
+
+      - layout: left
+        title: Korean Language Tutoring
+        #sub_title: Job title
+        caption: Sep - Dec 2025
+        #link: Link to company (optional)
+        #quote: >
+         # Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+        Participated in structured one-to-one tutoring to improve Korean proficiency and communication skills.
+        
 
   - title: Skills
     layout: list

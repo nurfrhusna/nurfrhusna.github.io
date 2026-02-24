@@ -34,10 +34,10 @@ orcid_username:
 googlescholar_username: 
 
 # Additional icon links
-additional_links:
-- title: CV
-  icon: fas fa-file-pdf
-  url: http://nurfrhusna.github.io/cv.pdf
+# additional_links:
+# - title: CV
+  # icon: fas fa-file-pdf
+  # url: http://nurfrhusna.github.io/cv.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)

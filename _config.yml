@@ -335,29 +335,30 @@ content:
       }
       </style>
 
+      <div class="aboutme-scroll">
         <div class="aboutme-item">
           <img src="images/image1.jpg" alt="Dotonburi, Osaka, Japan">
-          <div class="aboutme-caption">Pretty sunset</div>
+          <div class="aboutme-caption">Dotonburi, Osaka, Japan</div>
         </div>
         <div class="aboutme-item">
           <img src="images/image2.jpg" alt="Han River, Seoul, South Korea">
-          <div class="aboutme-caption">Pretty sunset</div>
+          <div class="aboutme-caption">Han River, Seoul, South Korea</div>
         </div>
         <div class="aboutme-item">
           <img src="images/image3.jpg" alt="Changi Airport, Singapore">
-          <div class="aboutme-caption">Pretty sunset</div>
+          <div class="aboutme-caption">Changi Airport, Singapore</div>
         </div>
         <div class="aboutme-item">
           <img src="images/image4.jpg" alt="Disneysea, Tokyo, Japan">
-          <div class="aboutme-caption">Incheon Chinatown</div>
+          <div class="aboutme-caption">Disneysea, Tokyo, Japan</div>
         </div>
         <div class="aboutme-item">
           <img src="images/image5.jpg" alt="Kota Kinabalu, Sabah, Malaysia">
-          <div class="aboutme-caption">Quiet morning by the mountain</div>
+          <div class="aboutme-caption">Kota Kinabalu, Sabah, Malaysia</div>
         </div>
         <div class="aboutme-item">
-          <img src="images/image8.jpg" alt="Incheon Chinatown, Incheon, South Korea">
-          <div class="aboutme-caption">Incheon Chinatown</div>
+          <img src="images/image8.jpg" alt="Incheon Chinatown, South Korea">
+          <div class="aboutme-caption">Incheon Chinatown, South Korea</div>
         </div>
       </div>
 

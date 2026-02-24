@@ -160,7 +160,8 @@ content:
           <div class="timeline-date">2024 – Present</div>
           <h4><b>B.S. in Computer Science</b></h4>
           <i>Yonsei University</i><br>
-          <p>Coursework: Data Structures and Algorithms, Probability and Statistics, Introduction to Human-Computer Interaction (HCI).</p>
+          <p><b>Current CGPA:</b> 3.88 / 4.30</p>
+          <p>Coursework: Data Structures and Algorithms, Linear Algebra, Introduction to Human-Computer Interaction (HCI).</p>
         </div>
 
         <div class="timeline-item">
@@ -175,6 +176,13 @@ content:
           <h4><b>Preparatory Programme in Information Technology</b></h4>
           <i>INTEC Education College, Malaysia</i><br>
           <p>Developed a strong foundation in computer science fundamentals, mathematics, and problem-solving skills.</p>
+        </div>
+
+        <div class="timeline-item">
+          <div class="timeline-date">Jan 2017 – Dec 2021</div>
+          <h4><b>High School</b></h4>
+          <i>SMK Semerah, Johor, Malaysia</i><br>
+          <p>Graduated with 7A+ 2A in the Malaysian Certificate of Education (SPM)</p>
         </div>
 
       </div>

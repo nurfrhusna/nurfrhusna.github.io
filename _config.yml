@@ -53,13 +53,16 @@ about_title: About Me
 
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi! I am Farah, a third-year Computer Science student from Malaysia, currently pursuing my 
-  bachelor's degree at Yonsei University in South Korea. 
-
-  As I've grown through my studies, I've found myself interested in UI/UX design. I'm particularly interested in understanding 
-  how people intereact with technology and how thoughtful, user-centered design can make complex systems feel simple, intuitive,
-  and meaningful. I also enjoy combining structure with creativity, desiginig digital experiences that are not only 
-  functional, but also feel warm to users.
+  Hi! I am Farah, a third-year Computer Science student from Malaysia. I am a JPA scholar currently pursuing my 
+  bachelor's degree at Yonsei University in Seoul, South Korea. 
+  
+  I began my study journey abroad at 19, where I learned to adapt to new surroundings and gained meaningful experiences. 
+  Living and studying abroad has helped me become more resilience, while being able to explore my passion in technology and critical thinking.
+  
+  As I've progressed through my studies, I've found myself interested in UI/UX design. I'm particularly interested by how people interact
+  with technology and how thoughtful, user-centered design can make complex systems feel simple and intuitive. 
+  
+  I enjoy designing digital experiences that are not only functional, but also feel warm and natural to users.
 
   
 content:  
@@ -69,9 +72,9 @@ content:
     content:
       - layout: left
         border: weak
-        title: Back2U - Lost & Found App Prototype
+        title: Back2U - Lost & Found Mobile App Prototype
         quote: >
-          A mobile prototype designed for the Yonsei University community.
+          A mobile app prototype designed for the Yonsei University community.
         description: |
           <div style="text-align: center; margin-bottom: 15px;">
             <img src="images/back2u-prototype.jpg"
@@ -86,7 +89,11 @@ content:
 
           <div style="font-size: 1.05em; line-height: 1.6;">
             Designed and prototyped an app that helps students report and return lost items efficiently as part of my course project.  
-            Focused on usability, empathy-driven UI, and smooth user workflows using Figma.
+            Focused on usability, user-driven UI, and smooth user workflows using Figma.
+            <br><br>
+           📱 <b>View the completed prototype here:</b>  
+            <a href="https://www.figma.com/proto/x9zK5xY893AzRtPu5YmkAh/Back2U?node-id=280-1174&t=f4KgZM55S4lCGKZw-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=280%3A1174&show-proto-sidebar=1" target="_blank" style="color:#c27ba0;">Click to view on Figma</a>
+          </div>
           </div>
 
       - layout: left
@@ -186,7 +193,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Provided a one-to-one tutoring sessions that helped secondary students prepare for the 
           national examination (SPM). <br>
-          Guiding students through tailored exam materials to master problem-solving skills.
+          Guided students through exam materials to master problem-solving skills.
 
   - title: Awards & Honors
     layout: text
@@ -263,7 +270,6 @@ content:
         </div>
 
       </div>
-
 
 
   - title: Skills

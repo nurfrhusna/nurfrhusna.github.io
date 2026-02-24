@@ -92,7 +92,7 @@ content:
             <br><br>
            📱 <b>View the completed prototype here:</b>  
             <a href="https://www.figma.com/proto/x9zK5xY893AzRtPu5YmkAh/Back2U?node-id=280-1174&t=f4KgZM55S4lCGKZw-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=280%3A1174&show-proto-sidebar=1" target="_blank" style="color:#c27ba0;">Click to view on Figma</a>
-          </div>
+        
           </div>
 
       - layout: left
@@ -158,7 +158,7 @@ content:
 
         <div class="timeline-item">
           <div class="timeline-date">2024 – Present</div>
-          <h4><b>B.S. in Computer Science and Engineering</b></h4>
+          <h4><b>B.S. in Computer Science</b></h4>
           <i>Yonsei University</i><br>
           <p>Coursework: Data Structures and Algorithms, Probability and Statistics, Introduction to Human-Computer Interaction (HCI).</p>
         </div>
@@ -282,7 +282,7 @@ content:
       - layout: left
         title: Tools & Design
         description: |
-          Figma
+          Figma, Canva
 
       - layout: left
         title: Languages 
@@ -294,7 +294,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Outside of academics, I enjoy travelling and taking photography.
+      Outside of academics, I enjoy travelling and taking pictures through photography.
       Here are some of my favorite shots! 📸
 
       <style>
@@ -335,37 +335,28 @@ content:
       }
       </style>
 
-      <div class="aboutme-scroll">
         <div class="aboutme-item">
-          <img src="images/image1.jpg" alt="Golden hour at Hangang">
-          <div class="aboutme-caption">Golden hour</div>
-        </div>
-        <div class="aboutme-item">
-          <img src="images/image2.jpg" alt="Pretty sunset">
+          <img src="images/image1.jpg" alt="Dotonburi, Osaka, Japan">
           <div class="aboutme-caption">Pretty sunset</div>
         </div>
         <div class="aboutme-item">
-          <img src="images/image3.jpg" alt="Kota Kinabalu City Mosque">
-          <div class="aboutme-caption">Kota Kinabalu City Mosque</div>
+          <img src="images/image2.jpg" alt="Han River, Seoul, South Korea">
+          <div class="aboutme-caption">Pretty sunset</div>
         </div>
         <div class="aboutme-item">
-          <img src="images/image4.jpg" alt="Night at Melaka Chinatown">
-          <div class="aboutme-caption">Night at Melaka Chinatown</div>
+          <img src="images/image3.jpg" alt="Changi Airport, Singapore">
+          <div class="aboutme-caption">Pretty sunset</div>
         </div>
         <div class="aboutme-item">
-          <img src="images/image5.jpg" alt="Quiet morning by the mountain">
+          <img src="images/image4.jpg" alt="Disneysea, Tokyo, Japan">
+          <div class="aboutme-caption">Incheon Chinatown</div>
+        </div>
+        <div class="aboutme-item">
+          <img src="images/image5.jpg" alt="Kota Kinabalu, Sabah, Malaysia">
           <div class="aboutme-caption">Quiet morning by the mountain</div>
         </div>
         <div class="aboutme-item">
-          <img src="images/image6.jpg" alt="Putra University Mosque">
-          <div class="aboutme-caption">Putra University Mosque</div>
-        </div>
-        <div class="aboutme-item">
-          <img src="images/image7.jpg" alt="Cats in Songdo">
-          <div class="aboutme-caption">Cats in Songdo</div>
-        </div>
-        <div class="aboutme-item">
-          <img src="images/image8.jpg" alt="Incheon Chinatown">
+          <img src="images/image8.jpg" alt="Incheon Chinatown, Incheon, South Korea">
           <div class="aboutme-caption">Incheon Chinatown</div>
         </div>
       </div>
@@ -429,16 +420,8 @@ content:
           <div class="photo-caption">Graduation day!</div>
         </div>
         <div class="photo-item">
-          <img src="images/moment4.jpg" alt="photo 4">
-          <div class="photo-caption">Winter trip</div>
-        </div>
-        <div class="photo-item">
           <img src="images/moment5.jpg" alt="photo 5">
           <div class="photo-caption">With fellow Yonsei Friends</div>
-        </div>
-        <div class="photo-item">
-          <img src="images/moment6.jpg" alt="photo 6">
-          <div class="photo-caption">Happy birthday to me:)</div>
         </div>
         <div class="photo-item">
           <img src="images/moment7.jpg" alt="photo 7">
